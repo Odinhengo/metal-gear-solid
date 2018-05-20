@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main(void)
-{	char letra;
- 
-	printf("informe:\n");
-	scanf(" %c", &letra);
+{	
+	printf("Hello World!\n");
 	return 0;
 }
